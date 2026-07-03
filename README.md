@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3640-trionic-array-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3640-trionic-array-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3640-trionic-array-ii) |
 ## Graph Theory
 |  |
 | ------- |
