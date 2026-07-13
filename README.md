@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
