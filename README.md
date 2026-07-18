@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -173,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
