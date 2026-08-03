@@ -1,19 +1,14 @@
 class Solution:
-    def earliestFinishTime(
-        self, la: list[int], lb: list[int], wa: list[int], wb: list[int]
-    ) -> int:
-        MAX = 300005
-        l = w = minL = minW = MAX
-        n, m = len(la), len(wa)
+    def earliestFinishTime(self, landStartTime, landDuration, waterStartTime, waterDuration):
+        land_finish = min(s + d for s, d in zip(landStartTime, landDuration))
+        water_finish = min(s + d for s, d in zip(waterStartTime, waterDuration))
 
-        for i in range(n):
-            l = min(l, la[i] + lb[i])
+        ans = float("inf")
 
-        for i in range(m):
-            w = min(w, wa[i] + wb[i])
-            minL = min(minL, max(wa[i], l) + wb[i])
+        for s, d in zip(waterStartTime, waterDuration):
+            ans = min(ans, max(s, land_finish) + d)
 
-        for i in range(n):
-            minW = min(minW, max(la[i], w) + lb[i])
+        for s, d in zip(landStartTime, landDuration):
+            ans = min(ans, max(s, water_finish) + d)
 
-        return min(minW, minL)
+        return ans
