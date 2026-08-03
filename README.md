@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2126-destroying-asteroids](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2906-construct-product-matrix](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2126-destroying-asteroids](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2126-destroying-asteroids](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
