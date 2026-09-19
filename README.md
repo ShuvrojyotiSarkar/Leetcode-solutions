@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2833-furthest-point-from-origin](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2833-furthest-point-from-origin](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
