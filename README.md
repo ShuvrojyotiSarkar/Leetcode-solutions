@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-trionic-array-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3731-find-missing-elements](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -362,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -374,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShuvrojyotiSarkar/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
